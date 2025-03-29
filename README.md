@@ -7,11 +7,10 @@
 	</p>
 	<hr>
 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanquisch/vanquisch/output/github-contribution-grid-snake.svg">
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanquisch/vanquisch/output/github-contribution-grid-snake.svg">
-	  <img src="https://raw.githubusercontent.com/vanquisch/vanquisch/output/github-contribution-grid-snake.svg" href="https://github.com/vanquisch" >
-	</picture>
- 	<br><hr>
+		<source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+		<img src="dist/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+        </picture><hr>
 <!-- 	<details><summary>My Statistics</summary>
 	<p>
 		<img src="github-metrics.svg">
