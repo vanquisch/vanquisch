@@ -3,7 +3,7 @@
 		<img src = "https://readme-typing-svg.herokuapp.com?size=26&color=20C20E&center=true&duration=2500&pause=10&width=435&lines=Every+shooting+star+is+proof.;Falling+can+be+beautiful+;when+you+give+it;all+you've+got.">
 	</p>
 	<p>
-		<img src="https://profile-counter.glitch.me/vanquisch/count.svg">
+		<img src="https://profile-counter.glitch.me/porsce/count.svg">
 	</p>
 	<hr>
 	<picture>
